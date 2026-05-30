@@ -16,6 +16,7 @@ I’m a Mathematics student with a growing focus on Data Science, Machine Learni
 <br>
 Currently, I’m preparing to begin the Professional Master’s in Data Science (Computing) at UP Cebu, while continuing to build experience through internships and personal projects.<br>
 <br>
+
 🧠 What I’m interested in<br>
 - Data Science & Machine Learning<br>
 - Statistical Modeling<br>
@@ -23,19 +24,18 @@ Currently, I’m preparing to begin the Professional Master’s in Data Science 
 - Real-world data applications<br>
 
 💼 Experience<br>
-- Data Modelin Intern at Eskwelabs<br>
-- Data Analyst Intern at Data2Stats<br>
-- Data & Impact Team Lead at KadaKareer<br>
 - Founder of Vekt Data Lab (data-focused student team)<br>
+- Data & Impact Team Lead at KadaKareer<br>
+- Former Data Modeling Intern at Eskwelabs<br>
+- Former Data Analyst Intern at Data2Stats<br>
+
 🎯 Current focus<br>
-<br>
 Building stronger fundamentals in:<br>
-<br>
-Machine learning theory and practice<br>
-Data engineering workflows<br>
-Research-oriented problem solving<br>
-🎸 Outside of tech<br>
-<br>
+- Machine learning theory and practice<br>
+- Data engineering workflows<br>
+- Research-oriented problem solving<br>
+
+<br>🎸 Outside of tech<br>
 I also founded a student music organization called UPSTRUM, where I work on projects involving music and community events.<br>
 
 
