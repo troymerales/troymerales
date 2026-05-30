@@ -8,9 +8,8 @@
 <br>
 
 # 💫 About Me:
-👋 Hi, I’m Troy<br>
 <br>
-I’m a Mathematics student with a growing focus on Data Science, Machine Learning, and applied analytics. I enjoy working on problems that sit at the intersection of math, data, and real-world decision-making.<br>
+I’m a Mathematics graduate with a growing focus on Data Science, Machine Learning, and applied analytics. I enjoy working on problems that sit at the intersection of math, data, and real-world decision-making.<br>
 <br>
 Currently, I’m preparing to begin the Professional Master’s in Data Science (Computing) at UP Cebu, while continuing to build experience through internships and personal projects.<br>
 <br>
