@@ -21,6 +21,7 @@ Currently, I’m preparing to begin the Professional Master’s in Data Science 
 - Statistical Modeling<br>
 - Mathematical foundations of AI<br>
 - Real-world data applications<br>
+
 💼 Experience<br>
 - Data Modelin Intern at Eskwelabs<br>
 - Data Analyst Intern at Data2Stats<br>
